@@ -2,6 +2,8 @@ import { useState } from 'react';
 
 import HelpArea from './HelpArea';
 
+
+// Add yet another commit!
 function MainContent() {
   const [helpVisible, setHelpVisible] = useState(false);
 
